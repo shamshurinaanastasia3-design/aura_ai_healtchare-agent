@@ -136,8 +136,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Project Lead**: https://github.com/shamshurinaanastasia3-design
-- **Contributors**: https://github.com/Nizhny711
+- **Project Lead**: shamshurinaanastasia3-design
+- **Contributors**: Nizhny711
 
 ## 📧 Contact
 
