@@ -106,11 +106,11 @@ cp .env.example .env
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: [Add your frontend technologies]
-- **Backend**: [Add your backend technologies]
-- **AI/ML**: [Add your AI/ML frameworks]
-- **Database**: [Add your database system]
-- **Cloud/Hosting**: [Add your deployment platform]
+- **Frontend**: Flutter
+- **Backend**: Python with FlaskAPI
+- **AI/ML**: TensorFlow
+- **Database**: TimescaleDB
+- **Cloud/Hosting**: Microsoft Azure
 
 ## 🔒 Security & Privacy
 
@@ -136,16 +136,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Project Lead**: [Your Name]
-- **Contributors**: [List contributors or link to contributors page]
+- **Project Lead**: https://github.com/shamshurinaanastasia3-design
+- **Contributors**: https://github.com/Nizhny711
 
 ## 📧 Contact
 
 For questions, support, or feedback:
 
 - **Issues**: [GitHub Issues](https://github.com/shamshurinaanastasia3-design/aura_ai_healtchare-agent/issues)
-- **Email**: [Your contact email]
-- **Website**: [Project website if available]
+- **Email**: littlenizhny711@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -156,18 +155,18 @@ For questions, support, or feedback:
 ## 📊 Project Status
 
 - [x] Initial development
-- [ ] Beta testing
+- [x] Beta testing
 - [ ] Production deployment
 - [ ] Feature enhancements
 
 ## 🗺️ Roadmap
 
-- [ ] Mobile application (iOS/Android)
-- [ ] Integration with wearable devices
-- [ ] Multi-language support
-- [ ] Advanced predictive analytics
-- [ ] Telehealth integration
-- [ ] Family caregiver portal
+- [x] Mobile application (iOS/Android)
+- [x] Integration with wearable devices
+- [x] Multi-language support
+- [x] Advanced predictive analytics
+- [x] Telehealth integration
+- [x] Family caregiver portal
 
 ---
 
